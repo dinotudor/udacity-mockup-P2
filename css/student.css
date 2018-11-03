@@ -1,0 +1,36 @@
+* {
+  font-family: 'Oswald', sans-serif;
+}
+
+.logo {
+  margin-top: 10px;
+  transform: scale(0.75,0.75)
+}
+
+.header-name {
+  margin-top: 10px;
+}
+
+.center {
+  align-items: center;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.line {
+  color: #7d97ad
+}
+
+img {
+  max-width: 100%;
+}
+
+h3  {
+  color: #7d97ad
+}
+
+h1, h2 {
+  color: #2d3c49;
+}
